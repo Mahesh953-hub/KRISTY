@@ -12,13 +12,13 @@ class Config(object):
     # REQUIRED
     # Login to https://my.telegram.org and fill in these slots with the details given by it
      
-    API_ID = 123456  # integer value, dont use "" this sign get it form my.telegram.org
-    API_HASH = "" # get it form my.telegram.org
-    TOKEN = ""  # get it form @botfather.
-    OWNER_ID = 1820525265  # got to @miss_kristy_bot and type /id
-    OWNER_USERNAME = "I_AM_PRO_KING" # your telegram username
+    API_ID = 22863697  # integer value, dont use "" this sign get it form my.telegram.org
+    API_HASH = "04478107e949dbae3c38ef94913c7fe4" # get it form my.telegram.org
+    TOKEN = "6537942757:AAEWuHaula-FFYD2Q_L0FaBrRUoRwGmipJ0"  # get it form @botfather.
+    OWNER_ID = 2015098238  # got to @miss_kristy_bot and type /id
+    OWNER_USERNAME = "Paracetamol_eii" # your telegram username
     ALLOW_CHATS = True # leave it as it is
-    BOT_USERNAME = "MISS_KRISTY_BOT" # your bot username get it form @botfather
+    BOT_USERNAME = "spam_ki_testing_bot" # your bot username get it form @botfather
     SUPPORT_CHAT = "TEAMXTRON"  # Your own group for support, do not add the @ if you dont have leave it as it is
     UPDATES_CHANNEL = "TEAMX_TRON"  # Your own chsnnel for support, do not add the @ if you dont have leave it as it is
     JOIN_LOGGER =  (
@@ -40,7 +40,7 @@ class Config(object):
     # RECOMMENDED
     STRING_SESSION ="" #telethon string session of user or bot get it from https://replit.com/@MISSKRISTY/MISS-KRISTY
     MONGO_DB_URI = "" #get it from mongodb.com get
-    ARQ_API_KEY = "" #git it form @ARQRobot
+    ARQ_API_KEY = "LINITA-IWDEIX-CKFUKE-APCBCK-ARQ" #git it form @ARQRobot
     ARQ_API_URL = "https://arq.hamker.in" # dont change
     SQLALCHEMY_DATABASE_URL = ""  # needed for any database modules get it from https://www.elephantsql.com/
     LOAD = []
