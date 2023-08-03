@@ -38,17 +38,17 @@ class Config(object):
 
 
     # RECOMMENDED
-    STRING_SESSION ="" #telethon string session of user or bot get it from https://replit.com/@MISSKRISTY/MISS-KRISTY
+    STRING_SESSION ="1AZWarzQBuznVZx776NxToiQre3TgSzowQT5aO2cspkLjhvq2qxdJrGE4F7HBGfPJ6kGQoaeiaZeW5UiO1WJ-5Q86RA3UNoyQwiS6IQ0DPaiXOBmdaDL59-vDpxPn3SkBLWhatmD_1I38rbhdKkofiwnbqyJpdYYzf6QRshvffPW_tjPszcY3Pi-A8LszpGdQZ9U_s-k39-jUBpbo9hSLj9sJJtCYw_lF0qa2TR4b0w-lWGPNwRYbiHlLXdHA1rXi7U5dE5nm6iK06HRmjZAXEC7NGAOFgCKE2o7S1p73nfA_s658GJVMpH_Qc6U-FuLF33x-mZ9kWJGvm9UaSssosW75ag94jNo=" #telethon string session of user or bot get it from https://replit.com/@MISSKRISTY/MISS-KRISTY
     MONGO_DB_URI = "" #get it from mongodb.com get
     ARQ_API_KEY = "LINITA-IWDEIX-CKFUKE-APCBCK-ARQ" #git it form @ARQRobot
     ARQ_API_URL = "https://arq.hamker.in" # dont change
-    SQLALCHEMY_DATABASE_URL = ""  # needed for any database modules get it from https://www.elephantsql.com/
+    SQLALCHEMY_DATABASE_URL = "postgres://ogftbmez:Op1T1dOoD1FM_xe7aBZzEHAPZqqwM_C0@rosie.db.elephantsql.com/ogftbmez"  # needed for any database modules get it from https://www.elephantsql.com/
     LOAD = []
     NO_LOAD = ["rss", "cleaner", "connection", "math"]
     WEBHOOK = False
     INFOPIC = True
     URL = None
-    SPAMWATCH_API = ""  # go to support.spamwat.ch to get key
+    SPAMWATCH_API = "hqRRvJ53J0KLeYFv1p1S1UeiSxtfZ1ujB~cJ7jWaeZggXWR~hL4GnaEeCPfbT0qa"  # go to support.spamwat.ch to get key
     SPAMWATCH_SUPPORT_CHAT = "@TEAMXTRON"
 
 
